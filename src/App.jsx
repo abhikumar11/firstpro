@@ -1,5 +1,6 @@
-import React from "react";
 import About from "./components/About";
+import Contact from "./components/Contact";
+import Service from "./components/Service";
 
 const App = () => {
   let name="Akshay"
@@ -7,6 +8,8 @@ const App = () => {
       <div>
      <h1>Welcome {name}</h1>
      <About/>
+     <Service/>
+     <Contact/>
      </div>
     );
 };
