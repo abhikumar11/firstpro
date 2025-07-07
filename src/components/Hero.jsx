@@ -5,6 +5,9 @@ const Hero = () => {
                 <div className="introduction">
                     
                 </div>
+                <div className="imagesection">
+
+                </div>
         </div>
     </div>
   )
